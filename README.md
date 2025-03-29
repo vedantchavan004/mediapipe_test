@@ -9,9 +9,9 @@ If the **right elbow is raised above the shoulder**, it is marked **red** and a 
 ## 📽️ Demo Videos
 Testing videos were taken from: https://www.pexels.com/
 
-| Result |
-
-![Violin Posture Demo](media/violin_feedback.gif)     ![Yoga Posture Demo](media/yoga_feedback.gif) 
+ Violin Posture | Yoga Posture |
+|----------------|--------------|
+| <img src="media/violin_feedback.gif" width="400"/> | <img src="media/yoga_feedback.gif" width="400"/> |
 
 ---
 
