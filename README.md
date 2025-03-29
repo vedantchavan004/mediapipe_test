@@ -1,7 +1,4 @@
-# mediapipe_test
-
-
-# 🎻 Violin Posture Feedback System using MediaPipe Pose
+# Posture Feedback System using MediaPipe Pose
 
 This project provides **real-time visual posture feedback** from a video. It analyzes the **right arm posture** using MediaPipe Pose and highlights the **elbow** and **arm color** based on posture.
 
